@@ -1,0 +1,5 @@
+Strategy Design Save code duplication in between different childrens of same class.
+Example:
+        here sportsVehicle nd OffRoadVehicle have same capabilities but still we have to write it twice.
+
+We can solve this issue with Strategy Design

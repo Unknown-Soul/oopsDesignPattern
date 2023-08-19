@@ -1,0 +1,5 @@
+Its a design pattern where we load object of one particular type at once.
+Example
+    If we have 2 os say Window and Mac.
+    As soon as we load mac we load all the objects related to mac.
+

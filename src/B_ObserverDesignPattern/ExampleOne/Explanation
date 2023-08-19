@@ -1,0 +1,8 @@
+Here their is one observerable and several observers
+
+
+To achive through design pattern
+So if something happen in observerable/Subject we have to notify to the observes.
+
+Example:
+    If in youtube there are several subscribers for one channel if there is new video all the subscribers will get notified.

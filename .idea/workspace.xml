@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bf40210-a65c-4006-8998-4a9d27e810a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPSDesignPatternCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA_OOPS_Concept/Abstraction/Encapsulation/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA_OOPS_Concept/Abstraction/Encapsulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA_OOPS_Concept/Abstraction/InterfaceUseInLosslyCoupled/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA_OOPS_Concept/Abstraction/InterfaceUseInLosslyCoupled/TaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA_OOPS_Concept/Abstraction/InterfaceUseInLosslyCoupled/TaxCalculator2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA_OOPS_Concept/Abstraction/InterfaceUseInLosslyCoupled/TaxCalculator2022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA_OOPS_Concept/Abstraction/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA_OOPS_Concept/Abstraction/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA_OOPS_Concept/Abstraction/Polymorphism/CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA_OOPS_Concept/Abstraction/Polymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA_OOPS_Concept/Abstraction/Polymorphism/TextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AA_OOPS_Concept/Abstraction/Polymorphism/UIControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_StrategyDesignPattern/ExampleOne/WithStrategyPattern/GoodVehical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_StrategyDesignPattern/ExampleOne/WithStrategyPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_StrategyDesignPattern/ExampleOne/WithStrategyPattern/OffRoadVehical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_StrategyDesignPattern/ExampleOne/WithStrategyPattern/SportsVehical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_StrategyDesignPattern/ExampleOne/WithStrategyPattern/Strategies/DriveStrategies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_StrategyDesignPattern/ExampleOne/WithStrategyPattern/Strategies/NormalStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_StrategyDesignPattern/ExampleOne/WithStrategyPattern/Strategies/SportsStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_StrategyDesignPattern/ExampleOne/WithStrategyPattern/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_StrategyDesignPattern/ExampleOne/WithoutStrategyPattern/Explnation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_StrategyDesignPattern/ExampleOne/WithoutStrategyPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_StrategyDesignPattern/ExampleOne/WithoutStrategyPattern/OffRoadVehical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_StrategyDesignPattern/ExampleOne/WithoutStrategyPattern/PassengerVehical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_StrategyDesignPattern/ExampleOne/WithoutStrategyPattern/SportsVehical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_StrategyDesignPattern/ExampleOne/WithoutStrategyPattern/Vehical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_ObserverDesignPattern/ExampleOne/Channels/Channel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_ObserverDesignPattern/ExampleOne/Channels/ChannelTelusko.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_ObserverDesignPattern/ExampleOne/Explanation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_ObserverDesignPattern/ExampleOne/Subscribers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_ObserverDesignPattern/ExampleOne/YouTube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C_Momento/Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C_Momento/EditorState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C_Momento/History.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C_Momento/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_DecoratorDesignPattern/BasePizza/BasePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_DecoratorDesignPattern/BasePizza/Farmhouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_DecoratorDesignPattern/BasePizza/Margherita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_DecoratorDesignPattern/BasePizza/VegDelight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_DecoratorDesignPattern/Decorator/ExtraCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_DecoratorDesignPattern/Decorator/Mushroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_DecoratorDesignPattern/Decorator/ToppingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_DecoratorDesignPattern/Explanation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_DecoratorDesignPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_FactoryDesignPattern/AbstractFactoryDesignPattern/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_FactoryDesignPattern/AbstractFactoryDesignPattern/Explanation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_FactoryDesignPattern/AbstractFactoryDesignPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_FactoryDesignPattern/AbstractFactoryDesignPattern/UiFactory/MacUiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_FactoryDesignPattern/AbstractFactoryDesignPattern/UiFactory/UiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_FactoryDesignPattern/AbstractFactoryDesignPattern/UiFactory/WindowUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_FactoryDesignPattern/AbstractFactoryDesignPattern/os/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_FactoryDesignPattern/AbstractFactoryDesignPattern/os/CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_FactoryDesignPattern/AbstractFactoryDesignPattern/os/Mac/MacButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_FactoryDesignPattern/AbstractFactoryDesignPattern/os/Mac/MacCheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_FactoryDesignPattern/AbstractFactoryDesignPattern/os/Window/WindowButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_FactoryDesignPattern/AbstractFactoryDesignPattern/os/Window/WindowCheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_FactoryDesignPattern/Explanation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_FactoryDesignPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_FactoryDesignPattern/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_FactoryDesignPattern/Shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_FactoryDesignPattern/Shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_FactoryDesignPattern/Shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MaZWSplelfDaHVeXoS8gfxjudl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/OOPSDesignPatternCode/src/E_FactoryDesignPattern/AbstractFactoryDesignPattern"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OOPSDesignPatternCode\src\E_FactoryDesignPattern\AbstractFactoryDesignPattern" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="E_FactoryDesignPattern.AbstractFactoryDesignPattern" />
+      <recent name="E_FactoryDesignPattern" />
+      <recent name="E_FactoryDesignPattern.AbstractFactoryDesignPattern.os.Mac" />
+      <recent name="D_DecoratorDesignPattern" />
+      <recent name="StrategyDesignPattern.ExampleOne.WithStrategyPattern" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.E_FactoryDesignPattern.AbstractFactoryDesignPattern.Main">
+    <configuration name="DesignPatterns.ExampleOne.YouTube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.ExampleOne.YouTube" />
+      <module name="OOPSDesignPatternCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPatterns.ExampleOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E_FactoryDesignPattern.AbstractFactoryDesignPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_FactoryDesignPattern.AbstractFactoryDesignPattern.Main" />
+      <module name="OOPSDesignPatternCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E_FactoryDesignPattern.AbstractFactoryDesignPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E_FactoryDesignPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_FactoryDesignPattern.Main" />
+      <module name="OOPSDesignPatternCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E_FactoryDesignPattern.Shapes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_DecoratorDesignPattern.Main" />
+      <module name="OOPSDesignPatternCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D_DecoratorDesignPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YouTube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_ObserverDesignPattern.ExampleOne.YouTube" />
+      <module name="OOPSDesignPatternCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B_ObserverDesignPattern.ExampleOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.E_FactoryDesignPattern.AbstractFactoryDesignPattern.Main" />
+        <item itemvalue="Application.E_FactoryDesignPattern.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.YouTube" />
+        <item itemvalue="Application.DesignPatterns.ExampleOne.YouTube" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bf40210-a65c-4006-8998-4a9d27e810a7" name="Changes" comment="" />
+      <created>1678007703914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678007703914</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/B_ObserverDesignPattern/ExampleOne/Subscribers.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/B_ObserverDesignPattern/ExampleOne/Channels/ChannelTelusko.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/B_ObserverDesignPattern/ExampleOne/Channels/ChannelTelusko.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

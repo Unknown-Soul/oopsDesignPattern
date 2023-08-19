@@ -1,0 +1,7 @@
+Decorator Design pattern is used in questions like coffe machines
+It is the design pattern that have "has a" and "is a" both used.
+Their is always one base class and have several decorator layers to increase the features of the base class.
+In the Example:
+            VegDelight, Margherita and Farmhouse "Is a" relation with BasePizza.
+            Topping Decorator have  "has a" relation with BasePizza.
+            ExtraCheese and Mushroom "Is a" relation with Topping Decorator
